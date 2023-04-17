@@ -1,0 +1,7 @@
+_como usar_
+
+assim que abrir o app o usuario pode escolher os botões com as emergências de acordo com sua necessidade, clicando na opção desejada
+o usuario recebera uma mensagem abaixo com os primeiros socorros.
+ Logo após o usuario deve informar o país que se encontra  para assim
+ser direcionado a uma pagina com seus respectivos números de autoridades de emergência e clicando sobre o numero desejado o usuario vai ser
+direcionado ao telefone de seu aparelho para que possa realizar a chamada de emergência.
